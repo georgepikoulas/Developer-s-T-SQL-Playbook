@@ -1,5 +1,5 @@
 insert into Users (Email) 
-values ('test@test.com') 
+values ('test2@test.com') 
 
 insert into Roles (Name) values ('Administartor')
 
