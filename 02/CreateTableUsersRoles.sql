@@ -1,4 +1,4 @@
-create TABLE UsersRoles(
+create TABLE UserRole(
     UserId INTEGER,
     RoleId INTEGER,
     PRIMARY KEY (UserId , RoleId)

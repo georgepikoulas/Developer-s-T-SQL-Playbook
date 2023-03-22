@@ -1,6 +1,6 @@
- Use BigMachine;
+ --Use BigMachine;
  
- drop table users;
+ --drop table Users;
  
  Create table Users(
      Id INT PRIMARY key IDENTITY (1,1),
